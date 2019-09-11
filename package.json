@@ -15,6 +15,7 @@
     "react": "16.8.6",
     "react-native": "0.60.5",
     "react-native-background-fetch": "^2.7.0",
+    "react-native-google-fit": "^0.9.15",
     "rn-apple-healthkit": "^0.6.5"
   },
   "devDependencies": {

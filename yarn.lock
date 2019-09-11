@@ -4522,6 +4522,10 @@ react-native-background-fetch@^2.7.0:
     plist "^3.0.1"
     xcode "^2.0.0"
 
+react-native-google-fit@^0.9.15:
+  version "0.9.15"
+  resolved "https://registry.yarnpkg.com/react-native-google-fit/-/react-native-google-fit-0.9.15.tgz#623851620049324aecb98a49a22a669a159fb3e9"
+
 react-native@0.60.5:
   version "0.60.5"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.60.5.tgz#3c1d9c06a0fbab9807220b6acac09488d39186ee"
